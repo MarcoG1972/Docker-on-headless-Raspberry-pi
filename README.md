@@ -1,5 +1,6 @@
 # Docker-on-headless-Raspberry-pi
 Introduction
+
 This guide outlines the steps required to install docker on a headless Raspberry Pi. Reason I’m putting this together is the generally found official documentation doesn’t work for the Headless variant of the Raspbian OS.
 
 By following its guidance you can find yourself running into the following errors
